@@ -1,4 +1,0 @@
-graphics_yingfort_layered
-
-[OBJECT:GRAPHICS]
-
