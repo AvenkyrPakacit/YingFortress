@@ -2378,7 +2378,7 @@ creature_yingfort
 [CREATURE:OOPS_WERE_TIPLOD]
 	[NAME:were tiplod:were tiplods:were tiplod]
 	[CASTE_NAME:were tiplod:were tiplods:were tiplod]
-	[DESCRIPTION:A very large tiplod twisted into humanoid form. It is crazed for blood and flesh. It has 10 arms and can roll into a ball. It's chitinous plates are midnight blue, and it's eyes glow amber. Now you will know to fear the night!]
+	[DESCRIPTION:A very large tiplod twisted into humanoid form. It is crazed for blood and flesh, has 10 arms and can roll into a ball. It's chitinous plates are midnight blue, and it's eyes glow amber. Now you will know to fear the night!]
 	[CREATURE_TILE:165][COLOR:1:0:0][CREATURE_CLASS:INSECT]
 	[ALL_ACTIVE][FANCIFUL][NOBONES][NO_SLEEP]
 	[NO_DIZZINESS][NO_FEVERS][NOPAIN]
