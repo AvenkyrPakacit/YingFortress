@@ -1346,6 +1346,7 @@ entity_yingfort
 		[MANDATE_MAX:1]
 	[POSITION:SITE_OFFICIATOR]
 		[NAME:local speaker:local speakers]
+		[DESCRIPTION:an acting leader. Enables access to a Matriarch.]
 		[RESPONSIBILITY:MEET_WORKERS]
 		[REQUIRES_POPULATION:20]
 		[PRECEDENCE:70]

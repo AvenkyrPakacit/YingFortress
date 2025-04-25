@@ -6,3 +6,8 @@ tile_page_yingfort
 	[FILE:images/yingfort_boulders.png]
 	[TILE_DIM:32:32]
 	[PAGE_DIM_PIXELS:64:512]
+
+[TILE_PAGE:YINGLETSPRITEBASIC]
+	[FILE:images/YingletSpriteBasic.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:96:32]
