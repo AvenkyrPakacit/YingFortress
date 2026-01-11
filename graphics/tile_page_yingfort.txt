@@ -10,4 +10,4 @@ tile_page_yingfort
 [TILE_PAGE:YINGLET_BODY]
 	[FILE:images/yinglet/yinglet_body.png]
 	[TILE_DIM:32:32]
-	[PAGE_DIM_PIXELS:96:32]
+	[PAGE_DIM_PIXELS:288:224]
