@@ -7,7 +7,7 @@ tile_page_yingfort
 	[TILE_DIM:32:32]
 	[PAGE_DIM_PIXELS:64:512]
 
-[TILE_PAGE:YINGLET_BODY]
+[TILE_PAGE:OOPS_YINGLET]
 	[FILE:images/yinglet/yinglet_body.png]
 	[TILE_DIM:32:32]
 	[PAGE_DIM_PIXELS:288:224]
